@@ -1,5 +1,9 @@
 body {
+<<<<<<< HEAD
   color: rgb(19, 8, 14);
+=======
+  color: rgb(8, 1, 5);
+>>>>>>> cabecera
   text-align: center;
   font-family: "Courier";
   font-size: 20px;
@@ -12,6 +16,19 @@ body {
   text-align: left;
   border: 1px solid #000;
   margin: 0 auto;
+}
+#cabecera {
+  background: #33a;
+  box-shadow: opx 2 px 20px 0px rgba(0, 0, 0, 0.5);
+  color: white;
+  font-weight: bold;
+  margin: 0;
+  padding: 0.5em;
+}
+#cabecera #tagline {
+  padding: 0 0 0 1em;
+  font-weight: normal;
+  font-size: 0.8em;
 }
 #container h1 {
   font-size: 20px;
