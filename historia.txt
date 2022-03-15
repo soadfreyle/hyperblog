@@ -10,10 +10,7 @@ master3
 
 experimento1
 experimento2
-<<<<<<< HEAD
 
 experimento3
 experimento4
-=======
 prueba1
->>>>>>> volvi a colocar prueba 1
